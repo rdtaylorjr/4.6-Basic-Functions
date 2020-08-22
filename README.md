@@ -1,2 +1,2 @@
 # 4.6-Basic-Functions
-School Project for Coursera Intro to Python at the University of Michigan
+School Project for Intro to Python at the University of Michigan (Coursera)
