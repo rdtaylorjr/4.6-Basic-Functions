@@ -2,4 +2,4 @@
 
 Programming Language: Python
 
-University of Michicagn Introduction to Python
+University of Michicagn, Introduction to Python
